@@ -1,0 +1,162 @@
+Category totals
+Category: category quantity: 1
+Category: Drama quantity: 1440
+Category: Gadgets quantity: 1439
+Category: Camera Equipment quantity: 332
+Category: Painting quantity: 1213
+Category: 3D Printing quantity: 418
+Category: Calendars quantity: 275
+Category: Children's Books quantity: 1565
+Category: Comic Books quantity: 1559
+Category: Live Games quantity: 822
+Category: Flight quantity: 286
+Category: Robots quantity: 413
+Category: Restaurants quantity: 1702
+Category: Drinks quantity: 1717
+Category: Music Videos quantity: 533
+Category: Science Fiction quantity: 563
+Category: Photography quantity: 294
+Category: World Music quantity: 883
+Category: Workshops quantity: 121
+Category: Comedy quantity: 1905
+Category: Footwear quantity: 637
+Category: Rock quantity: 1094
+Category: Classical Music quantity: 983
+Category: Festivals quantity: 541
+Category: Woodworking quantity: 991
+Category: Electronic Music quantity: 843
+Category: Webcomics quantity: 624
+Category: Thrillers quantity: 569
+Category: Mobile Games quantity: 921
+Category: Nonfiction quantity: 1039
+Category: Horror quantity: 1090
+Category: Product Design quantity: 889
+Category: Anthologies quantity: 707
+Category: R&B quantity: 442
+Category: Literary Journals quantity: 221
+Category: Comics quantity: 188
+Category: Academic quantity: 676
+Category: Animals quantity: 169
+Category: Faith quantity: 1038
+Category: Illustration quantity: 1141
+Category: Sculpture quantity: 763
+Category: Documentary quantity: 1568
+Category: Literary Spaces quantity: 48
+Category: Webseries quantity: 973
+Category: Family quantity: 316
+Category: Fantasy quantity: 243
+Category: Translations quantity: 82
+Category: Playing Cards quantity: 1434
+Category: Couture quantity: 176
+Category: Printing quantity: 173
+Category: Performances quantity: 872
+Category: Glass quantity: 120
+Category: Apps quantity: 1236
+Category: Plays quantity: 958
+Category: Games quantity: 11
+Category: Weaving quantity: 55
+Category: Hip-Hop quantity: 1731
+Category: Indie Rock quantity: 1059
+Category: Wearables quantity: 934
+Category: Gaming Hardware quantity: 318
+Category: Radio & Podcasts quantity: 598
+Category: DIY quantity: 975
+Category: Metal quantity: 442
+Category: Interactive Design quantity: 311
+Category: Accessories quantity: 1192
+Category: Fiction quantity: 1044
+Category: Technology quantity: 173
+Category: Farmer's Markets quantity: 359
+Category: Vegan quantity: 480
+Category: Musical quantity: 696
+Category: Puzzles quantity: 155
+Category: Graphic Design quantity: 913
+Category: Spaces quantity: 701
+Category: Theater quantity: 275
+Category: Experimental quantity: 681
+Category: Textiles quantity: 223
+Category: Small Batch quantity: 1695
+Category: Shorts quantity: 1373
+Category: Knitting quantity: 132
+Category: Action quantity: 588
+Category: Installations quantity: 385
+Category: Immersive quantity: 262
+Category: Places quantity: 490
+Category: Makerspaces quantity: 167
+Category: Punk quantity: 256
+Category: Crafts quantity: 702
+Category: Kids quantity: 227
+Category: Digital Art quantity: 779
+Category: Community Gardens quantity: 243
+Category: Television quantity: 890
+Category: Periodicals quantity: 399
+Category: Food quantity: 347
+Category: Movie Theaters quantity: 203
+Category: Pet Fashion quantity: 102
+Category: Farms quantity: 1024
+Category: Embroidery quantity: 76
+Category: Photo quantity: 143
+Category: Taxidermy quantity: 8
+Category: Publishing quantity: 123
+Category: Childrenswear quantity: 399
+Category: Typography quantity: 46
+Category: Narrative Film quantity: 806
+Category: Hardware quantity: 1197
+Category: Art Books quantity: 1159
+Category: Conceptual Art quantity: 415
+Category: Food Trucks quantity: 1628
+Category: Apparel quantity: 1386
+Category: Design quantity: 58
+Category: Poetry quantity: 708
+Category: Pottery quantity: 57
+Category: Architecture quantity: 550
+Category: Photobooks quantity: 1062
+Category: Software quantity: 1284
+Category: Journalism quantity: 261
+Category: DIY Electronics quantity: 592
+Category: Events quantity: 653
+Category: Fabrication Tools quantity: 161
+Category: Jazz quantity: 763
+Category: Candles quantity: 383
+Category: Bacon quantity: 161
+Category: Web quantity: 2168
+Category: Nature quantity: 401
+Category: Stationery quantity: 137
+Category: Tabletop Games quantity: 770
+Category: Music quantity: 375
+Category: Jewelry quantity: 908
+Category: Public Art quantity: 1114
+Category: Young Adult quantity: 679
+Category: Crochet quantity: 121
+Category: Country & Folk quantity: 1278
+Category: Art quantity: 331
+Category: Mixed Media quantity: 1211
+Category: Video quantity: 299
+Category: Space Exploration quantity: 209
+Category: Blues quantity: 213
+Category: Ceramics quantity: 269
+Category: Latin quantity: 122
+Category: Audio quantity: 369
+Category: Video Art quantity: 148
+Category: Video Games quantity: 1029
+Category: Graphic Novels quantity: 1628
+Category: Cookbooks quantity: 395
+Category: People quantity: 789
+Category: Performance Art quantity: 720
+Category: Animation quantity: 915
+Category: Pop quantity: 984
+Category: Dance quantity: 337
+Category: Ready-to-wear quantity: 523
+Category: Print quantity: 581
+Category: Sound quantity: 473
+Category: Civic Design quantity: 236
+Category: Fine Art quantity: 585
+Category: Fashion quantity: 85
+Category: Zines quantity: 258
+Category: Romance quantity: 142
+Category: Film & Video quantity: 109
+Category: Residencies quantity: 42
+Category: Quilts quantity: 73
+Category: Chiptune quantity: 16
+Category: Letterpress quantity: 30
+Total entries: 99987

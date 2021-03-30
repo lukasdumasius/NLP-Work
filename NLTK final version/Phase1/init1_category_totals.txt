@@ -1,0 +1,379 @@
+
+
+category:
+idx:  75631
+name:
+blurb and description:
+category:
+idx:  75632
+name:
+blurb and description:
+category:
+idx:  75633
+name:
+blurb and description:
+category:
+idx:  75634
+name:
+blurb and description:
+category:
+idx:  75635
+name:
+blurb and description:
+category:
+idx:  75636
+name:
+blurb and description:
+category:
+idx:  75637
+name:
+blurb and description:
+category:
+idx:  75638
+name:
+blurb and description:
+category:
+idx:  75639
+name:
+blurb and description:
+category:
+idx:  75640
+name:
+blurb and description:
+category:
+idx:  75641
+name:
+blurb and description:
+done
+total:  100001
+individual category totals:
+cat =  category
+1
+cat =  Drama
+1440
+cat =  Gadgets
+1439
+cat =  Camera Equipment
+332
+cat =  Painting
+1213
+cat =  3D Printing
+418
+cat =  Calendars
+275
+cat =  Children's Books
+1565
+cat =  Comic Books
+1559
+cat =  Live Games
+822
+cat =  Flight
+286
+cat =  Robots
+413
+cat =  Restaurants
+1702
+cat =  Drinks
+1717
+cat =  Music Videos
+533
+cat =  Science Fiction
+563
+cat =  Photography
+294
+cat =  World Music
+883
+cat =  Workshops
+121
+cat =  Comedy
+1905
+cat =  Footwear
+637
+cat =  Rock
+1094
+cat =  Classical Music
+983
+cat =  Festivals
+541
+cat =  Woodworking
+992
+cat =  Electronic Music
+843
+cat =  Webcomics
+624
+cat =  Thrillers
+569
+cat =  Mobile Games
+921
+cat =  Nonfiction
+1039
+cat =  Horror
+1090
+cat =  Product Design
+890
+cat =  Anthologies
+707
+cat =  R&B
+442
+cat =  Literary Journals
+221
+cat =  Comics
+188
+cat =  Academic
+676
+cat =  Animals
+169
+cat =  Faith
+1038
+cat =  Illustration
+1141
+cat =  Sculpture
+763
+cat =  Documentary
+1568
+cat =  Literary Spaces
+48
+cat =  Webseries
+973
+cat =  Family
+316
+cat =  Fantasy
+243
+cat =  Translations
+82
+cat =  Playing Cards
+1434
+cat =  Couture
+176
+cat =  Printing
+173
+cat =  Performances
+872
+cat =  Glass
+120
+cat =  Apps
+1236
+cat =  Plays
+958
+cat =  Games
+11
+cat =  Weaving
+55
+cat =  Hip-Hop
+1731
+cat =  Indie Rock
+1059
+cat =  Wearables
+935
+cat =  Gaming Hardware
+318
+cat =  Radio & Podcasts
+598
+cat =  DIY
+975
+cat =  Metal
+442
+cat =  Interactive Design
+311
+cat =  Accessories
+1192
+cat =  Fiction
+1044
+cat =  Technology
+173
+cat =  Farmer's Markets
+359
+cat =  Vegan
+480
+cat =  Musical
+696
+cat =  Puzzles
+155
+cat =  Graphic Design
+913
+cat =  Spaces
+701
+cat =  Theater
+275
+cat =  Experimental
+681
+cat =  Textiles
+223
+cat =  Small Batch
+1695
+cat =  Shorts
+1373
+cat =  Knitting
+132
+cat =  Action
+588
+cat =  Installations
+385
+cat =  Immersive
+262
+cat =  Places
+490
+cat =  Makerspaces
+167
+cat =  Punk
+256
+cat =  Crafts
+702
+cat =  Kids
+227
+cat =  Digital Art
+779
+cat =  Community Gardens
+243
+cat =  Television
+890
+cat =  Periodicals
+399
+cat =  Food
+347
+cat =  Movie Theaters
+203
+cat =  Pet Fashion
+102
+cat =  Farms
+1024
+cat =  Embroidery
+76
+cat =  Photo
+143
+cat =  Taxidermy
+8
+cat =  Publishing
+123
+cat =  Childrenswear
+399
+cat =  Typography
+46
+cat =  Narrative Film
+806
+cat =  Hardware
+1197
+cat =  Art Books
+1159
+cat =  Conceptual Art
+415
+cat =  Food Trucks
+1628
+cat =  Apparel
+1386
+cat =  Design
+58
+cat =  Poetry
+708
+cat =  Pottery
+57
+cat =  Architecture
+550
+cat =  Photobooks
+1062
+cat =  Software
+1284
+cat =  Journalism
+261
+cat =  DIY Electronics
+592
+cat =  Events
+653
+cat =  Fabrication Tools
+161
+cat =  Jazz
+763
+cat =  Candles
+383
+cat =  Bacon
+161
+cat =  Web
+2168
+cat =  Nature
+401
+cat =  Stationery
+137
+cat =  Tabletop Games
+770
+cat =  Music
+375
+cat =  Jewelry
+908
+cat =  Public Art
+1114
+cat =  Young Adult
+679
+cat =  Crochet
+121
+cat =  Country & Folk
+1278
+cat =  Art
+331
+cat =  Mixed Media
+1211
+cat =  Video
+299
+cat =  Space Exploration
+209
+cat =  Blues
+213
+cat =  Ceramics
+269
+cat =  Latin
+122
+cat =  Audio
+369
+cat =  Video Art
+148
+cat =  Video Games
+1029
+cat =  Graphic Novels
+1628
+cat =  Cookbooks
+395
+cat =  People
+789
+cat =  Performance Art
+720
+cat =  Animation
+915
+cat =  Pop
+984
+cat =  Dance
+337
+cat =  Ready-to-wear
+523
+cat =  Print
+581
+cat =  Sound
+473
+cat =  Civic Design
+236
+cat =  Fine Art
+585
+cat =  Fashion
+85
+cat =  Zines
+258
+cat =  Romance
+142
+cat =  Film & Video
+109
+cat =  Residencies
+42
+cat =  Quilts
+73
+cat =  Chiptune
+16
+cat =  Letterpress
+30
+cat =
+11
+.... lengths of idx, names, blurbs, description, blurb + descr:
+161
+161
+161
+161
+161
+
+C:\Users\Admin\Desktop\NLTK\Phase1>

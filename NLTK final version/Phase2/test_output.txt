@@ -1,0 +1,12 @@
+0       0.5     design bag pocket steel designed made material fit travel carry easy belt knife case back size product wallet weight tool
+1       0.5     shoes shoe leather quality size pair feet made footwear socks style foot wear comfort design brand materials sizes fit colors
+2       0.5     candles make business candle wood work art glass made studio home making shop small time hand create tools custom love
+3       0.5     robot kit control parts software make robots machine build design board robotics project programming system laser arduino hardware cnc power
+4       0.5     pen wood reward ugc.imgix.net/assets pens format&gif-q max&v pledge auto fit black level https://ksr made gold box style original.jpg?ixlib bowl finish
+5       0.5     sound play content phone capable app browser replay html you'll battery device smart technology watch bluetooth devices music time power
+6       0.5     team kids world community children years school experience students support design people technology learn project build child year work engineering
+7       0.5     kickstarter make time project campaign shipping design goal love it's back product people day backers order made great we're rewards
+8       0.5     sleep watch time data body health technology training fitness device heart running day activity back improve performance posture rate brain
+9       0.5     water products bottle dog clean product air cold pet skin food essential heat make made safe natural coffee plastic oil
+
+<1000> LL/token: -9.11209

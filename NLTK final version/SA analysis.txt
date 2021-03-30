@@ -1,0 +1,27 @@
+sentistrength (standalone or java i think?)
+ - capable of using emoticons
+ - doesnt depend on proper grammar
+ - emojis? (probably adaptable)
+ - no/minimal ML so its highly scalable and user friendly!
+
+But for accuracy this probably wouldnt be the best option for
+entrepreneurial pitches because they would use proper grammar
+and more "Traditional" speech which ML would do quite well on.
+(Train on our own dataset of "entrepreneurial-pitch-like" material?
+
+sentisense (java app)
+- a bit less developed, but good foundation
+- lexical so no need for a lot of ML
+- can differentiate between different meanings of words
+(which might be good in an "entrepreneurial" text)
+- it can work with xml files so maybe we can combine this
+with a little bit of ML in python and if the score is too different
+analyze key features in ML and if theyre rare words throw out
+the ML result
+
+VADER
+- not stuck with their app as well but can extend the lexicon and weights
+- also biased towards social media but not as much as others
+- capable of intensity but only a few groups, already in python-
+- good documentation
+
